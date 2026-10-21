@@ -7,4 +7,4 @@ App Zepp → relógio → **Developer Mode** → **+** → **Scan**, com o QR de
 
 | pacote | o que é | appId |
 |---|---|---|
-| `coado.zpk` | app: cronômetro guiado de café coado | 27408 |
+| `coado.zpk` | app: cronômetro guiado de café coado (0.1.1) | 27408 |
